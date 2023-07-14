@@ -17,5 +17,5 @@ algorithm, Thompson Sampling
 10.The ODE methods and convergence analysis
 
 
-##Prerequisites: 
+## Prerequisites: 
 EECS 501 and graduate standing
